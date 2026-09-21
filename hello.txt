@@ -1,3 +1,7 @@
 Hello Git!
 I am Learning Git.
+<<<<<<< HEAD
 This is my feature branch.  
+=======
+Git is actually easy.   
+>>>>>>> feature
